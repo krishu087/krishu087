@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishu087
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Dsa and 
+- 👀 I’m interested in data domain
+- 🌱 I’m currently running with power bi
 - 💞️ I’m looking for an internship-
 - 📫 you can reach me at krishnapanjre2003@gmail.com.
   
