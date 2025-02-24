@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishu087
-- 👀 I’m interested in data domain
-- 🌱 I’m currently running with power bi
+- 👀 I’m interested in webdev and python dev
+- 🌱 I’m currently running with fullstack
 - 💞️ I’m looking for an internship-
 - 📫 you can reach me at krishnapanjre2003@gmail.com.
   
