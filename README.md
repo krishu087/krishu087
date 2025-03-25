@@ -1,7 +1,7 @@
 # 🚀 Krishna Panjre | Python Developer & Frontend Engineer  
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=krishu087&color=brightgreen)  
-🔗 [GitHub Profile](https://github.com/krishu087) • 📧 [Email Me](mailto:your-email@gmail.com) • 🏆 Open to Collaboration  
+🔗 [GitHub Profile](https://github.com/krishu087) • 📧 [Email Me](krishnapanjre2003@gmial.com) • 🏆 Open to Collaboration  
 
 ---
 
@@ -54,9 +54,9 @@ Hi! I’m **Krishna Panjre**, a **Python Developer & Frontend Engineer** passion
 ---
 
 ## 🤝 Let’s Connect!  
-💼 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)  
-🐦 **Twitter:** [@YourTwitter](https://twitter.com/your-profile)  
-🌐 **Portfolio:** [Your Website](https://your-portfolio.com)  
+💼 **LinkedIn:** [Your LinkedIn](www.linkedin.com/in/krishna200330)  
+🐦 **Twitter:** [@YourTwitter]([https://twitter.com/your-profile](https://x.com/krishu073))  
+🌐 **Portfolio:** [Your Website]()  
 
 ---
 
