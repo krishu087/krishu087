@@ -1,4 +1,4 @@
-# 🚀 Krishna Panjre | Python Developer & Frontend Engineer  
+# 🚀 Krishna Panjre | Full Stack Dev & python dev
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=krishu087&color=brightgreen)  
 🔗 [GitHub Profile](https://github.com/krishu087) • 📧 **Email Me:** [krishnapanjre2003@gmail.com](mailto:krishnapanjre2003@gmail.com) • 🏆 Open to Collaboration  
@@ -20,8 +20,8 @@ Hi! I’m **Krishna Panjre**, a **Python Developer & Frontend Engineer** passion
 - Good knowledge of **Git & GitHub**  
 
 ✔ **Automation & Backend:**  
-- **Automatic Email Sender, Robo Speaker, and Weather App**  
-- Basic knowledge of **Django, APIs, and MySQL**  
+- ** forex resource webwork , Amazon clone   **  
+- Skills and ENV **EXpress, nodejs  ,REST APIs , and Mongodb , **  
 
 ---
 
